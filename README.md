@@ -88,5 +88,19 @@ NIM   : 250810701100073
 Nilai : 100.0
 Status: Lulus
 -----------------------------
+
+Mahasiswa ke-2:
+Nama  : Armin Arlert
+NIM   : 250810701100999
+Nilai : 55.0
+Status: Tidak Lulus
+-----------------------------
+
+Mahasiswa ke-3:
+Nama  : Vinsmoke Sanji
+NIM   : 250810701100666
+Nilai : 33.0
+Status: Tidak Lulus
+-----------------------------
 ...
 ```
