@@ -83,9 +83,9 @@ Nilai: 33
 
 === HASIL REKAPITULASI KELULUSAN MAHASISWA ===
 Mahasiswa ke-1:
-Nama  : Arinal
+Nama  : Arinal Haq
 NIM   : 250810701100073
-Nilai : 85.0
+Nilai : 100.0
 Status: Lulus
 -----------------------------
 ...
